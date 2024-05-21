@@ -1,10 +1,10 @@
 # Paper-Geometric-Mechanics-of-Contact-Switching-Systems
 
-This is the code repository for the paper "Geometric Mechanics of Contact-Switching Systems": <https://arxiv.org/abs/2306.10276>.
+This is the code repository for the paper "Geometric Mechanics of Contact-Switching Systems": <10.1109/LRA.2023.3327930>. This repository can generate the plots provided in the paper.
 
 ## Information on using this repository
 
-Each file within the "Code" folder is intended to be run sectionwise. For more details on the terminology used below please refer to the paper linked above.
+Each file within the "Code" folder is intended to be run sectionwise. For more details on the terminology and techniques, please refer to the paper linked above.
 
 1. The stratified panels shown in the paper (in Fig.1(c), Fig.3(d), Fig.3(e), Fig.4(b), and Fig.6) are generated in the "EfficiencyAndPanels.m" code.
 
